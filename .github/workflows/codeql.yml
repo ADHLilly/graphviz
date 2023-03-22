@@ -67,7 +67,7 @@ jobs:
       name: Build C
       run: |
          echo "Run, Build Application using script"
-         ./buildscript.sh
+         ./graphviz-7.1.0/windows/build.bat
     # ℹ️ Command-line programs to run using the OS shell.
     # 📚 See https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#jobsjob_idstepsrun
 
